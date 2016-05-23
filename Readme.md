@@ -1,3 +1,7 @@
+This is a fork of https://github.com/kchmck/vim-coffee-script,
+that is `git fsck` - safe, following the instructions here:
+http://stackoverflow.com/a/14839059/329700
+
 This project adds [CoffeeScript] support to vim. It covers syntax, indenting,
 compiling, and more.
 
